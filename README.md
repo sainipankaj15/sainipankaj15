@@ -2,7 +2,7 @@
 ### <div align="center"> Hi there, It's me Pankaj Saini <img alt="gif" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="height: 35px"/></div>
 <hr/>
 
-Hello, This is Pankaj Saini, I am currently a Third year student at [IIIT Gwalior](http://www.iiitm.ac.in/index.php/en/).
+Hello, This is Pankaj Saini, I am currently a Third year IT student at [IIIT Gwalior](http://www.iiitm.ac.in/index.php/en/).
 
 - 🔭 I have intermediate proficiency in C & C++ and reasonable experience in Competitive Coding.
 - 🌱 I’m currently learning Web development in deep dive.
