@@ -3,16 +3,18 @@
 
 
 <div align="center">
- <h1> Actively looking for SDE/SWE Full-time Role </h1>
+ <h3> Software Engineer at FYERS Securities 
+ <br> (Stock Broker in India)
+ </h3>
 </div>
 
 <div align="center">
 
-  <h2>
+  <h3>
 
- [My](https://drive.google.com/drive/folders/1SueyslgahUEcqXCEBcPkqk00ZJ6Rvekx?usp=sharing) [Resume](https://drive.google.com/drive/folders/1SueyslgahUEcqXCEBcPkqk00ZJ6Rvekx?usp=sharing) [Link](https://drive.google.com/drive/folders/1SueyslgahUEcqXCEBcPkqk00ZJ6Rvekx?usp=sharing)
+[Resume](https://bit.ly/sainipankaj)
 
- </h2>
+ </h3>
 
 </div>
 
@@ -20,13 +22,17 @@
 
 <hr/>
 
-Hello, This is Pankaj Saini, I am final year Btech student in Information Technology at [IIIT Gwalior](http://www.iiitm.ac.in/index.php/en/).
+Hello, This is Pankaj Saini. I completed my UnderGraduation (B.Tech ) in Information Technology from [IIIT Gwalior](http://www.iiitm.ac.in/index.php/en/) in the year 2023.
 
-- I have been a Software Development Intern at Cantilever Labs previously.
+- I am Software Engineer at [Fyers Securities](https://fyers.in/) (Stock Broker). Mostly, I write the backend in C++ and make automate things using shell script at FYERS.
+- I have been a Software Development Intern at [Cantilever Labs](https://www.cantileverlabs.com/) previously.
 -  I have achieved intermediate proficiency in C & C++ and Full-stack Development skills. 
 -  I am consistently working to enhance my problem-solving skills.
 - Solved over 1000 Coding Problems on different platforms. (Checkout My Profile links)
--    [LeetCode](https://leetcode.com/blacky_bomb_15/)  ||  [HackerRank](https://www.hackerrank.com/blacky_bomb_15?hr_r=1) ||  [CodeChef](https://www.codechef.com/users/blacky_bomb_15)  ||  [StopStalk](https://www.stopstalk.com/user/profile/blacky_bomb_15)
+  -    [LeetCode](https://leetcode.com/blacky_bomb_15/)  
+  -    [HackerRank](https://www.hackerrank.com/blacky_bomb_15?hr_r=1)
+  -    [CodeChef](https://www.codechef.com/users/blacky_bomb_15)
+  -    [StopStalk](https://www.stopstalk.com/user/profile/blacky_bomb_15)
 - Reach me here  Email: [pksmks1999@gmail.com](mailto:pksmks1999@gmail.com).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/saini-pankaj/) || [Twitter](https://twitter.com/Engineer_Bear_)
 - ### 🌐 Socials:
