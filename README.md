@@ -22,9 +22,9 @@
 
 ## 🚀 What I'm up to
 
-- Developing and optimizing algorithmic trading strategies
-- Diving deep into backend technologies and system design
+- Diving deep into **Backend technologies and System design**
 - Continuously improving my problem-solving skills
+- Developing and optimizing algorithmic trading strategies 
 
 ## 💻 Tech Stack
 
@@ -42,6 +42,8 @@
 
 ## 🔗 Connect with Me
 
+📫 Reach me at: [sainipankaj1599@gmail.com](mailto:sainipankaj1599@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saini-pankaj/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Engineer_Bear_)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sainipankaj)
@@ -51,6 +53,7 @@
 ## 💻 Coding Profiles
 
 - [LeetCode](https://leetcode.com/blacky_bomb_15/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/user/blackybomb15/)
 - [HackerRank](https://www.hackerrank.com/blacky_bomb_15?hr_r=1)
 
 ## 📊 GitHub Stats
